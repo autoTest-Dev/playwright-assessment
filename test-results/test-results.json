@@ -4,16 +4,16 @@
     "passed": 1,
     "failed": 0,
     "skipped": 0,
-    "duration": 24034,
-    "startTime": "2025-11-11T16:36:42.761Z",
-    "endTime": "2025-11-11T16:37:06.795Z"
+    "duration": 26459,
+    "startTime": "2025-11-11T17:13:09.547Z",
+    "endTime": "2025-11-11T17:13:36.006Z"
   },
   "tests": [
     {
       "title": "Complete e-commerce flow: Login, Add products, Verify cart, Complete checkout",
       "file": "tests\\ecommerce.spec.ts",
       "status": "passed",
-      "duration": 22276,
+      "duration": 24227,
       "retries": 0
     }
   ]

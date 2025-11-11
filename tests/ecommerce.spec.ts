@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 import {ecomData} from '../data/ecommerceData';
-import { BaseTest } from '../fixtures/baseTest';
+import { BaseTest } from '../fixtures/BaseTest';
 
 test.describe('E-commerce Flow - Complete Purchase Journey', () => {
 
